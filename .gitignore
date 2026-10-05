@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+
+telemetry/__pycache__/
+server/__pycache__/
+
+telemetry_state.json
+telemetry_state.json.tmp
